@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb://localhost:27017/mean-stack-demo",
+    "apiUrl": "http://localhost:3005/api",
+    "secret": "!2#4%6&8(0)9*7^5$3@1"
+}
