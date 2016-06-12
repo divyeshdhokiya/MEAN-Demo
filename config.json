@@ -1,5 +1,6 @@
 ﻿{
-    "connectionString": "mongodb://localhost:27017/mean-stack-demo",
+    "connectionString": "mongodb://dmdhokiya:@Dmd8147180@ds037622.mlab.com:37622/mean-demo",
+    
     "apiUrl": "dmdchatapp.herokuapp.com/api",
     "secret": "!2#4%6&8(0)9*7^5$3@1"
 }
