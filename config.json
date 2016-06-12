@@ -1,6 +1,5 @@
 ﻿{
-    "connectionString": "mongodb://dmdhokiya:@Dmd8147180@ds037622.mlab.com:37622/mean-demo",
-
-    "apiUrl": "techeverywhere.herokuapp.com/api",
+    "connectionString": "mongodb://dmd:dmd@ds037622.mlab.com:37622/mean-demo",
+    "apiUrl": "https://techeverywhere.herokuapp.com/api",
     "secret": "!2#4%6&8(0)9*7^5$3@1"
 }
